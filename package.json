@@ -54,5 +54,8 @@
     "typescript": "3.2.4",
     "webpack": "^4.29.6"
   },
-  "engines": { "node": "10.15.0", "npm": "6.4.1" }
+  "engines": {
+    "node": "10.15.0",
+    "npm": "6.4.1"
+  }
 }
