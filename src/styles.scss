@@ -7,6 +7,19 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.social-media {
+  svg {
+    width: 25px;
+    height: 25px;
+    fill: #005ca6;
+  }
+}
+
 abe-header {
     nav {
       width: 100%;
@@ -18,3 +31,4 @@ abe-header {
       }
     }
   }
+ 
